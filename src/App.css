@@ -103,6 +103,13 @@ body, html, .App, #root, .auth-wrapper {
   margin: 0;
 }
 
+button{
+  background-color: blue;
+  color: white;
+  border-style: none;
+  
+}
+
 .forgot-password a {
   color: #167bff;
 }
